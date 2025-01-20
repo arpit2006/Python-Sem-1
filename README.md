@@ -1,9 +1,5 @@
 # Python-Sem-1
 
-
-
-# Python-Sem-1
-
 # Python Programming - Semester 1  
 
 Welcome to the **Python Programming** repository for Semester 1! 🎓 This course is designed as an introductory guide to Python programming, perfect for first-semester college students. The curriculum is structured to provide a strong foundation in Python and practical experience with programming concepts.  
