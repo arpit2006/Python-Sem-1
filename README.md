@@ -51,7 +51,9 @@ The repository is organized into modules corresponding to the course syllabus:
    - Overview of libraries like `math`, `random`, and `datetime`  
 
 8. **Projects**  
-   - Small projects like a calculator, number guessing game, and student record management system  
+   - Small projects like a calculator, number guessing game, and student record management system
+  
+   - Under uploading
 
 ---
 
